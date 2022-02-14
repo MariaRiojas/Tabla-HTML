@@ -1,0 +1,9 @@
+#encabezado {
+    background-color: #75ee95;
+    color: white;
+}
+div {
+    margin: 5rem;
+    text-align: center;
+    border-right: none;
+}
